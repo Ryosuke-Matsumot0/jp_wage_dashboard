@@ -3,4 +3,3 @@ streamlit==0.75.0
 pydeck==0.5.0
 plotly==4.14.1
 matplotlib==3.4.2
-matplotlib-line==0.1.2
