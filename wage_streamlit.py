@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
-import warnings
-warnings.simplefilter('ignore')     #エラーを無視する
+#import warnings
+#warnings.simplefilter('ignore')     #エラーを無視する
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties #日本語表記にするためにもの
 import plotly.express as px
